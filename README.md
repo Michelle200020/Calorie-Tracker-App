@@ -29,8 +29,8 @@ The program uses the csv, json and pandas libraries for data storage and manipul
 
 ### IMPLEMENTATION OF PYTHON CONCEPTS-
 1.	List, Dictionaries
-•	Food data such as number of calories, carbohydrates, proteins, fats were stored in a dictionary format in a JSON file
-•	MET values with key-value pairs of physical activity and the corresponding MET value was stored in a dictionary
+- Food data such as number of calories, carbohydrates, proteins, fats were stored in a dictionary format in a JSON file
+- MET values with key-value pairs of physical activity and the corresponding MET value was stored in a dictionary
 •	Rows from csv files were returned in a list format which was used to access specific values
 •	Lists were used to store valid input options and check if input is in the list such as for activity level.
 2.	String & String Functions
