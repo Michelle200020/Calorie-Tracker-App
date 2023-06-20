@@ -1,0 +1,86 @@
+{
+  "Rice": {
+    "calories": 3.5,
+    "fats": 0.1,
+    "carbohydrates": 0.7,
+    "proteins": 0.1
+  },
+  "Wheat Roti": {
+    "calories": 2.4,
+    "fats": 0.1,
+    "carbohydrates": 0.5,
+    "proteins": 0.1
+  },
+  "Dal": {
+    "calories": 3.7,
+    "fats": 0.1,
+    "carbohydrates": 0.6,
+    "proteins": 0.2
+  },
+  "Banana": {
+    "calories": 0.9,
+    "fats": 0,
+    "carbohydrates": 0.2,
+    "proteins": 0
+  },
+  "Apple": {
+    "calories": 0.5,
+    "fats": 0,
+    "carbohydrates": 0.1,
+    "proteins": 0
+  },
+  "Mango": {
+    "calories": 0.6,
+    "fats": 0,
+    "carbohydrates": 0.2,
+    "proteins": 0
+  },
+  "Milk": {
+    "calories": 0.6,
+    "fats": 0,
+    "carbohydrates": 0.1,
+    "proteins": 0.1
+  },
+  "Yogurt": {
+    "calories": 0.6,
+    "fats": 0,
+    "carbohydrates": 0.1,
+    "proteins": 0.1
+  },
+  "Chicken Curry": {
+    "calories": 1.8,
+    "fats": 0.1,
+    "carbohydrates": 0.1,
+    "proteins": 0.2
+  },
+  "Paneer Makhani": {
+    "calories": 3.5,
+    "fats": 0.3,
+    "carbohydrates": 0.4,
+    "proteins": 0.2
+  },
+  "Biryani": {
+    "calories": 1.16,
+    "carbohydrates": 0.136,
+    "fats": 0.039,
+    "proteins": 0.053
+  },
+  "Samosa": {
+    "calories": 1.11,
+    "carbohydrates": 0.11,
+    "fats": 0.066,
+    "proteins": 0.017
+  },
+  "Masala Dosa": {
+    "calories": 1.15,
+    "carbohydrates": 0.201,
+    "fats": 0.031,
+    "proteins": 0.042
+  },
+  "Omelette": {
+    "calories": 1.5,
+    "carbohydrates": 0.01,
+    "fats": 0.11,
+    "proteins": 0.13
+  }
+}
